@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+.img_1 {
+    height: 250px;
+    width: 500px;
+    background: #7f7f80;
+    margin: 100px 0 0 200px;
+    box-shadow: #d4b690 -25px -25px 29px 15px;
+}
+.img_2{
+    margin-left: 200px;
+    margin-top: 5px;
+
+}
