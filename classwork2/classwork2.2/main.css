@@ -1,6 +1,7 @@
-*{
+* {
     box-sizing: border-box;
 }
+
 .img_1 {
     height: 250px;
     width: 500px;
@@ -8,8 +9,12 @@
     margin: 100px 0 0 200px;
     box-shadow: #d4b690 -25px -25px 29px 15px;
 }
-.img_2{
-    margin-left: 200px;
-    margin-top: 5px;
 
+.img_2 {
+    margin: 20px 5px 5px 200px;
+    width: 390px;
+    border-left: 5px solid #e20a0b;
+    background: #fdfdfe;
+    padding: 0 20px;
 }
+
